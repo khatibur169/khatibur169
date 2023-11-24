@@ -41,13 +41,13 @@
 <h4><font size="+1" face="Tahoma">Scripting:</font></h4>
 <p align="left">
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-<img src="https://e7.pngegg.com/pngimages/330/276/png-clipart-bash-shell-script-bourne-shell-scripting-language-unix-shell-shell-rectangle-logo.png" alt="bash" width="100" height="100"/>
+<img src="https://e7.pngegg.com/pngimages/330/276/png-clipart-bash-shell-script-bourne-shell-scripting-language-unix-shell-shell-rectangle-logo.png" alt="bash" width="80" height="80"/>
 </a>
 <a href="[https://www.python.org](https://www.python.org/)" target="_blank" rel="noreferrer">
-<img src="https://i.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.webp" alt="python" width="100" height="100"/>
+<img src="https://i.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.webp" alt="python" width="80" height="80"/>
 </a>
 <a href="[https://golang.org](https://golang.org/)" target="_blank" rel="noreferrer">
-<img src="https://perisync.com/images/gocc.gif" alt="golang" width="170" height="100"/>
+<img src="https://perisync.com/images/gocc.gif" alt="golang" width="100" height="80"/>
 </a>
 </p>
 
